@@ -4,6 +4,6 @@ This repository contains material for the 36c3 workshop
 
 [Memory dump download link](https://www.dropbox.com/s/9xjah2ppi3l5skh/memorylane.7z?dl=0) (File was too large for github)
 
-Password: will be shared during the workshop. Unless you can crack it ;)
+Password: Check slides. Unless you can crack it ;)
 
 Slides: Will be uploaded after the workshop
